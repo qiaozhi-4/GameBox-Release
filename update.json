@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
+  "versionCode": 41,
   "minVersionCode": 39,
   "versionName": "2.0.1-beta",
-  "url": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/2.0.1-beta/app-release.apk",
+  "url": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/2.0.1-beta-41/app-release.apk",
   "description": "修复部分 BUG"
 }
