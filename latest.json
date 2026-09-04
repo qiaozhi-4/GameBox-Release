@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "kind": "gamebox-release",
+  "versionCode": 37,
+  "versionName": "1.2.28",
+  "releaseTag": "v1.2.28",
+  "publishedAt": "2026-09-04T12:08:39Z",
+  "minVersionCode": 37,
+  "forceUpdate": false,
+  "app": {
+    "componentId": "gamebox-app",
+    "artifact": {
+      "abi": "arm64-v8a",
+      "fileName": "GameBox-arm64-v8a.apk",
+      "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/v1.2.28/GameBox-arm64-v8a.apk",
+      "sha256": "acd4460e833ee3aba8889c2f3a468358292586f955a1dab20652418893bc7768",
+      "size": 7429028
+    }
+  },
+  "native": {
+    "core": {
+      "soId": "core",
+      "displayName": "GameBox Core",
+      "packaging": "separate-core",
+      "requiresCore": false,
+      "minAppVersionCode": 37,
+      "supportedAbis": [
+        "arm64-v8a"
+      ],
+      "dependencies": [],
+      "artifacts": [
+        {
+          "abi": "arm64-v8a",
+          "fileName": "libxmg_core-arm64-v8a.so",
+          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/v1.2.28/libxmg_core-arm64-v8a.so",
+          "sha256": "7448bcef5a6ada7d6dac37fe9205ed2779113d7e94d732d8a3ab04beaaea8d31",
+          "size": 10079368
+        }
+      ]
+    },
+    "games": []
+  },
+  "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/v1.2.28.md"
+}
