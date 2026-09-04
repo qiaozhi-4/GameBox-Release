@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "kind": "so-baseline",
+  "status": "observed-unpublished",
+  "soId": "core",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "packaging": "separate-core",
+  "requiresCore": false,
+  "minAppVersionCode": 37,
+  "supportedAbis": [
+    "arm64-v8a"
+  ],
+  "dependencies": [],
+  "source": {
+    "repository": "qiaozhi-4/GameBox",
+    "branch": "core",
+    "commit": "2124e0f92adf49dfe0df76a8afc75f5a377d4346",
+    "buildVariant": "release",
+    "ndkVersion": "27.0.12077973",
+    "cmakeVersion": "3.22.1",
+    "observedPath": "app/build/intermediates/cmake/release/obj/arm64-v8a/libxmg_core.so"
+  },
+  "artifact": {
+    "observedFileName": "libxmg_core.so",
+    "intendedReleaseFileName": "libxmg_core-v1.0.0-arm64-v8a.so",
+    "abi": "arm64-v8a",
+    "size": 22436080,
+    "sha256": "33269baa462954d14fb62af5628e0cfd38e69ea5767877c1be5514edc8dd7ced",
+    "elf": {
+      "class": "ELF64",
+      "type": "DYN",
+      "machine": "AArch64",
+      "linkage": "dynamically linked",
+      "buildId": "c18d503089beb2c0b1a14f0d84712cb52d72af16",
+      "containsDebugInfo": true,
+      "stripped": false
+    }
+  },
+  "intendedReleaseTag": "so-core-v1.0.0",
+  "recordedAt": "2026-09-04T13:59:59+08:00",
+  "publication": {
+    "published": false,
+    "latestJsonCreated": false,
+    "reason": "The observed file is a local CMake intermediate artifact and has not been uploaded to a GitHub Release."
+  }
+}
