@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "kind": "app-update",
+  "componentId": "gamebox-app",
+  "versionCode": 37,
+  "versionName": "1.2.28",
+  "releaseTag": "app-v1.2.28",
+  "publishedAt": "2026-09-04T10:35:42Z",
+  "minVersionCode": 37,
+  "forceUpdate": false,
+  "artifact": {
+    "abi": "arm64-v8a",
+    "fileName": "GameBox-v1.2.28-arm64-v8a.apk",
+    "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/app-v1.2.28/GameBox-v1.2.28-arm64-v8a.apk",
+    "sha256": "2f96defe8e2d7c76710b2e1e0868ef0c979cb46d7c34dc7784ad38908bbfbb1c",
+    "size": 7428576
+  },
+  "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/app/changelog/v1.2.28.md"
+}
