@@ -110,6 +110,38 @@
             "size": 10499440
           }
         ]
+      },
+      {
+        "soId": "mrfz",
+        "displayName": "明日方舟",
+        "versionCode": 1,
+        "versionName": "1.0.0",
+        "releaseTag": "native-mrfz-v1.0.0",
+        "packaging": "self-contained-game",
+        "requiresCore": false,
+        "minAppVersionCode": 37,
+        "dexApiVersion": 1,
+        "supportedAbis": [
+          "arm64-v8a"
+        ],
+        "dependencies": [],
+        "recommendedPackages": [
+          "com.hypergryph.arknights",
+          "com.hypergryph.arknights.bilibili",
+          "com.YoStarJP.Arknights",
+          "tw.txwy.and.arknights",
+          "com.YoStarEN.Arknights"
+        ],
+        "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/mrfz/v1.0.0.md",
+        "artifacts": [
+          {
+            "abi": "arm64-v8a",
+            "fileName": "libxmg_mrfz-arm64-v8a.so",
+            "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native-mrfz-v1.0.0/libxmg_mrfz-arm64-v8a.so",
+            "sha256": "8c00a91111d8e5104002f720bbdf8b9cce1597510fdeab7246d2d42673f11bdf",
+            "size": 10449064
+          }
+        ]
       }
     ]
   },
