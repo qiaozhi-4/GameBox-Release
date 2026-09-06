@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "kind": "gamebox-native-release",
+  "soId": "jxlmt",
+  "displayName": "见习猎魔团",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "releaseTag": "native-jxlmt-v1.0.0",
+  "packaging": "self-contained-game",
+  "requiresCore": false,
+  "minAppVersionCode": 37,
+  "dexApiVersion": 1,
+  "supportedAbis": [
+    "arm64-v8a"
+  ],
+  "dependencies": [],
+  "recommendedPackages": [
+    "com.jianxiliemotuan.guanbao",
+    "com.hnyj.jxlmt.m4399",
+    "com.hnyj.jxlmt.aligames"
+  ],
+  "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/jxlmt/v1.0.0.md",
+  "metadataUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/jxlmt/1.0.0/json",
+  "versionsUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/jxlmt/versions.json",
+  "artifacts": [
+    {
+      "abi": "arm64-v8a",
+      "fileName": "libxmg_jxlmt-arm64-v8a.so",
+      "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native-jxlmt-v1.0.0/libxmg_jxlmt-arm64-v8a.so",
+      "sha256": "435643e55771cd3e36afd2352f49d87c5841f60dcb20981a421f76419978b8db",
+      "size": 10453640
+    }
+  ]
+}
