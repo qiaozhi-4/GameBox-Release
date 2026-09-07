@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "gamebox-native-latest",
+  "publishedAt": "2026-09-07T02:58:07Z",
+  "components": [
+    {
+      "soId": "core",
+      "displayName": "GameBox Core",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "releaseTag": "native-core-v1.0.0",
+      "packaging": "self-contained-game",
+      "requiresCore": false,
+      "minAppVersionCode": 37,
+      "dexApiVersion": 1,
+      "supportedAbis": [
+        "arm64-v8a"
+      ],
+      "dependencies": [],
+      "recommendedPackages": [],
+      "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/core/v1.0.0.md",
+      "metadataUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/so/core/1.0.0/json",
+      "versionsUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/so/core/versions.json",
+      "artifacts": [
+        {
+          "abi": "arm64-v8a",
+          "fileName": "libxmg_core-arm64-v8a.so",
+          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native-core-v1.0.0/libxmg_core-arm64-v8a.so",
+          "sha256": "9a5e8ec9deb01d8cb9cd4e58477d4628fda756fff02ef4883e4dab0eb550341e",
+          "size": 10150472
+        }
+      ]
+    },
+    {
+      "soId": "wdyz",
+      "displayName": "我的勇者",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "releaseTag": "native-wdyz-v1.0.0",
+      "packaging": "self-contained-game",
+      "requiresCore": false,
+      "minAppVersionCode": 37,
+      "dexApiVersion": 1,
+      "supportedAbis": [
+        "arm64-v8a"
+      ],
+      "dependencies": [],
+      "recommendedPackages": [
+        "com.rsg.wdyz",
+        "com.r2games.myhero.m4399",
+        "com.r2games.myhero.aligames"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/wdyz/v1.0.0.md",
+      "metadataUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/so/wdyz/1.0.0/json",
+      "versionsUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/so/wdyz/versions.json",
+      "artifacts": [
+        {
+          "abi": "arm64-v8a",
+          "fileName": "libxmg_wdyz-arm64-v8a.so",
+          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native-wdyz-v1.0.0/libxmg_wdyz-arm64-v8a.so",
+          "sha256": "dfb512a657ea199317b6779bc937b418fbe293f2d36968f1167b0bd41550f73c",
+          "size": 10499592
+        }
+      ]
+    }
+  ]
+}
