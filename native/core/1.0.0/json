@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "kind": "gamebox-native-release",
+  "soId": "core",
+  "displayName": "GameBox Core",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "releaseTag": "native-core-v1.0.0",
+  "packaging": "self-contained-game",
+  "requiresCore": false,
+  "minAppVersionCode": 37,
+  "dexApiVersion": 1,
+  "supportedAbis": [
+    "arm64-v8a"
+  ],
+  "dependencies": [],
+  "recommendedPackages": [],
+  "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/core/v1.0.0.md",
+  "metadataUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/native/core/1.0.0/json",
+  "versionsUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/native/core/versions.json",
+  "artifacts": [
+    {
+      "abi": "arm64-v8a",
+      "fileName": "libxmg_core-arm64-v8a.so",
+      "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native-core-v1.0.0/libxmg_core-arm64-v8a.so",
+      "sha256": "faa29fbc8ae0f6ae69268767ea57fd43029024515b3ff37bfe4047f425dd729f",
+      "size": 10154568
+    }
+  ]
+}
