@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "kind": "gamebox-native-release",
+  "soId": "wdyz",
+  "displayName": "我的勇者",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "appReleaseTag": "v1.2.28",
+  "packaging": "self-contained-game",
+  "requiresCore": false,
+  "minAppVersionCode": 37,
+  "dexApiVersion": 1,
+  "supportedAbis": [
+    "arm64-v8a"
+  ],
+  "dependencies": [],
+  "recommendedPackages": [
+    "com.rsg.wdyz",
+    "com.r2games.myhero.m4399",
+    "com.r2games.myhero.aligames"
+  ],
+  "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/wdyz/v1.0.0.md",
+  "metadataUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/native/wdyz/1-1.0.0.json",
+  "versionsUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/native/wdyz/versions.json",
+  "artifacts": [
+    {
+      "abi": "arm64-v8a",
+      "fileName": "libxmg_wdyz-v1.0.0-arm64-v8a.so",
+      "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/v1.2.28/libxmg_wdyz-v1.0.0-arm64-v8a.so",
+      "sha256": "9b99d05f1ad258cf1f6158c2cc2d80094cb3b910c0d884bfbc792a0fcd23d166",
+      "size": 10503688
+    }
+  ]
+}

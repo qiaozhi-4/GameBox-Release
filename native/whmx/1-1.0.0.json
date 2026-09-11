@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "kind": "gamebox-native-release",
+  "soId": "whmx",
+  "displayName": "物华弥新",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "appReleaseTag": "v1.2.28",
+  "packaging": "self-contained-game",
+  "requiresCore": false,
+  "minAppVersionCode": 37,
+  "dexApiVersion": 1,
+  "supportedAbis": [
+    "arm64-v8a"
+  ],
+  "dependencies": [],
+  "recommendedPackages": [
+    "com.cipaishe.wuhua.bilibili"
+  ],
+  "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/whmx/v1.0.0.md",
+  "metadataUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/native/whmx/1-1.0.0.json",
+  "versionsUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/native/whmx/versions.json",
+  "artifacts": [
+    {
+      "abi": "arm64-v8a",
+      "fileName": "libxmg_whmx-v1.0.0-arm64-v8a.so",
+      "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/v1.2.28/libxmg_whmx-v1.0.0-arm64-v8a.so",
+      "sha256": "004ceea55d181905ace093c263f2c1ef1acd9ba42313789243367ea679985980",
+      "size": 10297032
+    }
+  ]
+}
