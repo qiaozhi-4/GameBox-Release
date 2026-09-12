@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "gamebox-native-latest",
-  "publishedAt": "2026-09-11T10:09:36Z",
+  "publishedAt": "2026-09-12T01:50:49Z",
   "components": [
     {
       "soId": "core",
@@ -26,7 +26,7 @@
           "abi": "arm64-v8a",
           "fileName": "libxmg_core-v1.0.0-arm64-v8a.so",
           "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/v1.2.28/libxmg_core-v1.0.0-arm64-v8a.so",
-          "sha256": "f31f410a911d5ab475785530992544f1e17d99fd8a352ee4090083538b6a685c",
+          "sha256": "a759df2b0273ebb35ef31e820a7cd3ce97ebd13def9c9cf71134a0e217f4a0cc",
           "size": 10290776
         }
       ]
