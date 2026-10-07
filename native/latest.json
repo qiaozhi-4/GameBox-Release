@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "gamebox-native-latest",
-  "publishedAt": "2026-10-07T03:20:43Z",
+  "publishedAt": "2026-10-07T15:57:55Z",
   "components": [
     {
       "soId": "core",
@@ -100,9 +100,9 @@
     {
       "soId": "wdyz",
       "displayName": "我的勇者",
-      "versionCode": 1,
-      "versionName": "1.0.0",
-      "appReleaseTag": "v1.2.28",
+      "versionCode": 2,
+      "versionName": "2.0.0",
+      "appReleaseTag": "v2.0.0",
       "packaging": "self-contained-game",
       "requiresCore": false,
       "minAppVersionCode": 37,
@@ -116,16 +116,16 @@
         "com.r2games.myhero.m4399",
         "com.r2games.myhero.aligames"
       ],
-      "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/wdyz/v1.0.0.md",
-      "metadataUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/native/wdyz/1-1.0.0.json",
+      "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/wdyz/v2.0.0.md",
+      "metadataUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/native/wdyz/2-2.0.0.json",
       "versionsUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/native/wdyz/versions.json",
       "artifacts": [
         {
           "abi": "arm64-v8a",
-          "fileName": "libxmg_wdyz-v1.0.0-arm64-v8a.so",
-          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/v1.2.28/libxmg_wdyz-v1.0.0-arm64-v8a.so",
-          "sha256": "a425e64604c570b4d836a7c509f695c2dd9075165777672ace77ee9030f4a985",
-          "size": 11023464
+          "fileName": "libxmg_wdyz-v2.0.0-arm64-v8a.so",
+          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/v2.0.0/libxmg_wdyz-v2.0.0-arm64-v8a.so",
+          "sha256": "0a8811f7708d10aea7fab3b8e8c3ff71d71222f21d8ebcb648e5eef6fee11308",
+          "size": 11052296
         }
       ]
     },

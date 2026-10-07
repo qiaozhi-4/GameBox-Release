@@ -3,9 +3,15 @@
   "kind": "gamebox-native-index",
   "soId": "wdyz",
   "displayName": "我的勇者",
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0.0",
+  "latestVersionCode": 2,
+  "latestVersionName": "2.0.0",
   "versions": [
+    {
+      "versionCode": 2,
+      "versionName": "2.0.0",
+      "metadataUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/native/wdyz/2-2.0.0.json",
+      "appReleaseTag": "v2.0.0"
+    },
     {
       "versionCode": 1,
       "versionName": "1.0.0",
