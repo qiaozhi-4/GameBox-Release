@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "gamebox-native-latest",
-  "publishedAt": "2026-10-07T15:57:55Z",
+  "publishedAt": "2026-10-08T03:35:16Z",
   "components": [
     {
       "soId": "core",
@@ -124,8 +124,8 @@
           "abi": "arm64-v8a",
           "fileName": "libxmg_wdyz-v2.0.0-arm64-v8a.so",
           "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/v2.0.0/libxmg_wdyz-v2.0.0-arm64-v8a.so",
-          "sha256": "0a8811f7708d10aea7fab3b8e8c3ff71d71222f21d8ebcb648e5eef6fee11308",
-          "size": 11052296
+          "sha256": "df8eb0473854961476fd2d7a60178f4b023e64f01fd31224230c1e2eb38846d7",
+          "size": 11068992
         }
       ]
     },
