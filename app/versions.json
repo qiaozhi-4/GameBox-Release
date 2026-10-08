@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "gamebox-app-versions",
+  "versions": [
+    {
+      "releaseOrder": 2,
+      "versionCode": 38,
+      "versionName": "2.0.0",
+      "releaseDate": "2026-10-07",
+      "title": "Native 导入与公告改进",
+      "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/v2.0.0.md"
+    },
+    {
+      "releaseOrder": 1,
+      "versionCode": 37,
+      "versionName": "1.2.28",
+      "releaseDate": "2026-09-04",
+      "title": "稳定性与发布流程",
+      "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/v1.2.28.md"
+    }
+  ]
+}

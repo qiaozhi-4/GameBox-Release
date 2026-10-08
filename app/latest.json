@@ -15,5 +15,6 @@
     "size": 4368940
   },
   "minVersionCode": 38,
-  "forceUpdate": false
+  "forceUpdate": false,
+  "versionsUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/app/versions.json"
 }
