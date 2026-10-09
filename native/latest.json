@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 6,
   "kind": "gamebox-native-latest",
   "publishedAt": "2026-10-08T07:46:57Z",
   "components": [
@@ -8,7 +8,6 @@
       "displayName": "GameBox Core",
       "versionCode": 1,
       "versionName": "1.0.0",
-      "releaseTag": "native-current",
       "packaging": "self-contained-game",
       "requiresCore": false,
       "minAppVersionCode": 37,
@@ -23,10 +22,13 @@
         {
           "abi": "arm64-v8a",
           "fileName": "libxmg_core-arm64-v8a.so",
-          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native-current/libxmg_core-arm64-v8a.so",
+          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native/libxmg_core-arm64-v8a.so",
           "sha256": "ce000bbb55a9335efcf326b651b9329e08fe961eeda5205b06a45e81f55a378c",
           "size": 10356352
         }
+      ],
+      "releaseNotes": [
+        "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/core/v1.0.0.md"
       ]
     },
     {
@@ -34,7 +36,6 @@
       "displayName": "见习猎魔团",
       "versionCode": 1,
       "versionName": "1.0.0",
-      "releaseTag": "native-current",
       "packaging": "self-contained-game",
       "requiresCore": false,
       "minAppVersionCode": 37,
@@ -53,10 +54,13 @@
         {
           "abi": "arm64-v8a",
           "fileName": "libxmg_jxlmt-arm64-v8a.so",
-          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native-current/libxmg_jxlmt-arm64-v8a.so",
+          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native/libxmg_jxlmt-arm64-v8a.so",
           "sha256": "39b2c8b1f371bbd38d7f69dab9aae0c1d59e9257abb6a1299b3d0db333ab7731",
           "size": 10663640
         }
+      ],
+      "releaseNotes": [
+        "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/jxlmt/v1.0.0.md"
       ]
     },
     {
@@ -64,7 +68,6 @@
       "displayName": "明日方舟",
       "versionCode": 1,
       "versionName": "1.0.0",
-      "releaseTag": "native-current",
       "packaging": "self-contained-game",
       "requiresCore": false,
       "minAppVersionCode": 37,
@@ -85,10 +88,13 @@
         {
           "abi": "arm64-v8a",
           "fileName": "libxmg_mrfz-arm64-v8a.so",
-          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native-current/libxmg_mrfz-arm64-v8a.so",
+          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native/libxmg_mrfz-arm64-v8a.so",
           "sha256": "6bf393dad81796f5036692ab3f42b9067e8ac128872d870f7bda2563639a17d8",
           "size": 10659216
         }
+      ],
+      "releaseNotes": [
+        "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/mrfz/v1.0.0.md"
       ]
     },
     {
@@ -96,7 +102,6 @@
       "displayName": "我的勇者",
       "versionCode": 2,
       "versionName": "2.0.0",
-      "releaseTag": "native-current",
       "packaging": "self-contained-game",
       "requiresCore": false,
       "minAppVersionCode": 37,
@@ -115,10 +120,14 @@
         {
           "abi": "arm64-v8a",
           "fileName": "libxmg_wdyz-arm64-v8a.so",
-          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native-current/libxmg_wdyz-arm64-v8a.so",
+          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native/libxmg_wdyz-arm64-v8a.so",
           "sha256": "6511ab40b019c841f93afa781b76cb6fe65c96fb06a6655fe8acee1a7f5333b0",
           "size": 11097704
         }
+      ],
+      "releaseNotes": [
+        "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/wdyz/v2.0.0.md",
+        "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/wdyz/v1.0.0.md"
       ]
     },
     {
@@ -126,7 +135,6 @@
       "displayName": "物华弥新",
       "versionCode": 1,
       "versionName": "1.0.0",
-      "releaseTag": "native-current",
       "packaging": "self-contained-game",
       "requiresCore": false,
       "minAppVersionCode": 37,
@@ -143,10 +151,13 @@
         {
           "abi": "arm64-v8a",
           "fileName": "libxmg_whmx-arm64-v8a.so",
-          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native-current/libxmg_whmx-arm64-v8a.so",
+          "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native/libxmg_whmx-arm64-v8a.so",
           "sha256": "dbc90188a990169f5331ad4878070abca7548902f33b465905c50a500541eaf2",
           "size": 10507016
         }
+      ],
+      "releaseNotes": [
+        "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/whmx/v1.0.0.md"
       ]
     }
   ]
