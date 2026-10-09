@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
   "kind": "gamebox-native-latest",
-  "publishedAt": "2026-10-09T06:34:13Z",
+  "publishedAt": "2026-10-09T12:36:16Z",
   "components": [
     {
       "soId": "core",
@@ -68,8 +68,8 @@
     {
       "soId": "mrfz",
       "displayName": "明日方舟",
-      "versionCode": 2,
-      "versionName": "2.1.0",
+      "versionCode": 3,
+      "versionName": "2.1.1",
       "packaging": "self-contained-game",
       "requiresCore": false,
       "minAppVersionCode": 39,
@@ -85,17 +85,18 @@
         "tw.txwy.and.arknights",
         "com.YoStarEN.Arknights"
       ],
-      "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/mrfz/v2.1.0.md",
+      "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/mrfz/v2.1.1.md",
       "artifacts": [
         {
           "abi": "arm64-v8a",
           "fileName": "libxmg_mrfz-arm64-v8a.so",
           "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native/libxmg_mrfz-arm64-v8a.so",
-          "sha256": "0ff5862e67f6720ba2c2d0d4b09e4ef9aa4714c6c1f17f30165d62c70be9fc2f",
+          "sha256": "e7c0d77a2f77ce9f6db8e2811f496470c08bf81d0907e93247200470ea7952e6",
           "size": 10659216
         }
       ],
       "releaseNotes": [
+        "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/mrfz/v2.1.1.md",
         "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/mrfz/v2.1.0.md",
         "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/mrfz/v1.0.0.md"
       ]
