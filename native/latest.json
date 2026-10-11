@@ -1,7 +1,7 @@
 {
   "schemaVersion": 6,
   "kind": "gamebox-native-latest",
-  "publishedAt": "2026-10-09T12:36:16Z",
+  "publishedAt": "2026-10-11T06:11:30Z",
   "components": [
     {
       "soId": "core",
@@ -23,7 +23,7 @@
           "abi": "arm64-v8a",
           "fileName": "libxmg_core-arm64-v8a.so",
           "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native/libxmg_core-arm64-v8a.so",
-          "sha256": "ce000bbb55a9335efcf326b651b9329e08fe961eeda5205b06a45e81f55a378c",
+          "sha256": "f1f49f16aed874a5e54e709c1a1f302b08a63f86763253e3eb117038bb630865",
           "size": 10356352
         }
       ],
@@ -56,8 +56,8 @@
           "abi": "arm64-v8a",
           "fileName": "libxmg_jxlmt-arm64-v8a.so",
           "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native/libxmg_jxlmt-arm64-v8a.so",
-          "sha256": "34c08c33a1cbed22d35122671e2cc42f905950a0dbd10109b28c474035f28736",
-          "size": 10667736
+          "sha256": "445d37109b5f9278819ef8112cfd66f295e18105a393b2f7f05a7c4cd8770030",
+          "size": 10659560
         }
       ],
       "releaseNotes": [
@@ -91,7 +91,7 @@
           "abi": "arm64-v8a",
           "fileName": "libxmg_mrfz-arm64-v8a.so",
           "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native/libxmg_mrfz-arm64-v8a.so",
-          "sha256": "e7c0d77a2f77ce9f6db8e2811f496470c08bf81d0907e93247200470ea7952e6",
+          "sha256": "ab53af64851b5afc325b0c14050e632d738d008b27b512679ab5e4f80114ac57",
           "size": 10659216
         }
       ],
@@ -125,8 +125,8 @@
           "abi": "arm64-v8a",
           "fileName": "libxmg_wdyz-arm64-v8a.so",
           "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native/libxmg_wdyz-arm64-v8a.so",
-          "sha256": "b3b72c8228693c2cb59c4aae375ee0d83f4f46ba0078a08e6a8839820700f198",
-          "size": 11093592
+          "sha256": "ab59dbf5e7e4995ad35d39e9c80c9eec7b1ab28cb301a8a4e09945b44ba2823e",
+          "size": 11093608
         }
       ],
       "releaseNotes": [
@@ -157,8 +157,8 @@
           "abi": "arm64-v8a",
           "fileName": "libxmg_whmx-arm64-v8a.so",
           "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/native/libxmg_whmx-arm64-v8a.so",
-          "sha256": "381ca0395513cfe3209cd892d482f6cbf3581dabdc3f6ae26efac0812cda6561",
-          "size": 10507016
+          "sha256": "7a5062bca763636e5100e2e9a0259d391c33e354dd48511932247ca25b5e7ba5",
+          "size": 10507032
         }
       ],
       "releaseNotes": [
