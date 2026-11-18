@@ -1,21 +1,22 @@
 {
   "schemaVersion": 5,
   "kind": "gamebox-app-release",
-  "publishedAt": "2026-10-17T11:06:04Z",
+  "publishedAt": "2026-11-18T16:53:45Z",
   "componentId": "gamebox-app",
-  "versionCode": 43,
-  "versionName": "2.2.3",
-  "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/v2.2.3.md",
+  "versionCode": 44,
+  "versionName": "2.2.4",
+  "changelogUrl": "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/v2.2.4.md",
   "artifact": {
     "abi": "arm64-v8a",
     "fileName": "GameBox-arm64-v8a.apk",
     "downloadUrl": "https://github.com/qiaozhi-4/GameBox-Release/releases/download/app/GameBox-arm64-v8a.apk",
-    "sha256": "de5ecd21ff3052607b8e8df3fe771e9374609d2f82e3aa7243eef07663f36c76",
-    "size": 4415296
+    "sha256": "1c56f299ed33fd180afab8e725ff70c01ac8db0c5fd26436925228ab60f33ad0",
+    "size": 4428492
   },
-  "minVersionCode": 43,
+  "minVersionCode": 44,
   "forceUpdate": false,
   "releaseNotes": [
+    "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/v2.2.4.md",
     "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/v2.2.3.md",
     "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/v2.2.2.md",
     "https://raw.githubusercontent.com/qiaozhi-4/GameBox-Release/main/changelog/v2.2.1.md",
